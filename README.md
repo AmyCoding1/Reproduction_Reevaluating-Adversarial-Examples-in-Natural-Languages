@@ -1,6 +1,6 @@
-# Reevaluating Adversarial Examples in Natural Language
+# Reproduction_Reevaluating Adversarial Examples in Natural Language
 
-This repository contains code and datasets for the experiments in "Reevaluating Adversarial Examples in Natural Language."
+This repository contains code and datasets for the reproduction of the experiments in "Reevaluating Adversarial Examples in Natural Language."
 
 ## Files
 
